@@ -1,0 +1,48 @@
+"transect","station","longitude","latidue","year","month","day","oceanic_zone_broadscale","oceanic_zone_detailed","other_feature","SML_preferred_estimate","SML_2_estimate","Tmin_value","Tmin_depth"
+2,1,93.556,-64.645,2015,1,22,"Subpolar","Subpolar - ASC","-",22,46,-1.7506,48
+2,2,93.532,-64.302,2015,1,22,"Subpolar","Subpolar - ASC","-",NA,NA,-1.7616,116
+2,3,93.551,-64.001,2015,1,23,"Subpolar","Subpolar","-",NA,NA,-1.6838,62
+2,4,93.546,-63.471,2015,1,23,"Subpolar","Subpolar","-",16,20,-1.6435,48
+2,5,93.565,-62.999,2015,1,23,"Subpolar","Subpolar","-",14,34,-1.6864,60
+2,6,93.156,-62.288,2015,1,23,"Southern","Southern - between SB and SACCF","-",44,44,-1.3904,62
+2,7,93.368,-61.708,2015,1,24,"Southern","Southern - between SB and SACCF","-",34,32,-1.2235,68
+2,8,93.549,-61.151,2015,1,24,"Southern","Southern - between SB and SACCF","-",38,34,-1.0889,60
+3,9,92.549,-61.973,2015,1,25,"Southern","Southern - between SB and SACCF","-",38,34,-1.1616,62
+3,10,91.531,-62.318,2015,1,25,"Southern","Southern - between SB and SACCF","-",42,38,-1.1299,60
+3,11,89.665,-62.392,2015,1,26,"Southern","Southern - between SB and SACCF","-",34,32,-1.2982,48
+3,12,87.787,-62.47,2015,1,27,"Subpolar","Subpolar","-",18,22,-1.3334,56
+3,13,86.112,-62.514,2015,1,27,"Subpolar","Subpolar","-",14,14,-1.4383,58
+3,14,83.868,-62.536,2015,1,28,"Antarctic","Antarctic - ACC","-",34,30,-0.5022,54
+4,15,82.025,-62.52,2015,1,28,"Antarctic","Antarctic - KP","-",34,32,-0.54805,60
+4,16,82.021,-63.272,2015,1,29,"Antarctic","Antarctic - ACC","-",42,40,-1.1311,68
+4,17,83.137,-63.951,2015,1,30,"Antarctic","Antarctic - KP","frontal",16,20,-1.0939,44
+4,18,83.489,-64.363,2015,1,31,"Subpolar","Subpolar","frontal",NA,NA,-1.7153,12
+4,19,84.326,-64.64,2015,1,31,"Subpolar","Subpolar","frontal",NA,NA,-1.837,96
+4,20,85.232,-65.187,2015,2,1,"Subpolar","Subpolar - ASC","-",NA,NA,-1.8212,40
+6,21,91.617,-65.157,2015,2,2,"Subpolar","Subpolar - ASC","-",NA,NA,-1.7645,128
+6,22,91.384,-65.006,2015,2,2,"Subpolar","Subpolar - ASC","-",16,22,-1.7495,120
+6,23,89.797,-64.316,2015,2,3,"Subpolar","Subpolar","-",30,26,-1.6961,58
+6,24,88.207,-63.597,2015,2,4,"Subpolar","Subpolar","-",34,32,-1.377,66
+6,25,87.258,-63.114,2015,2,4,"Subpolar","Subpolar","-",20,20,-1.5849,62
+6,26,86.128,-62.507,2015,2,4,"Subpolar","Subpolar","-",22,20,-1.7784,70
+6,27,85.064,-61.916,2015,2,5,"Antarctic","Antarctic - KP","-",14,14,-1.0185,58
+6,28,83.86,-61.196,2015,2,5,"Antarctic","Antarctic - KP","-",30,12,-0.63093,54
+6,29,82.548,-60.357,2015,2,6,"Antarctic","Antarctic - KP","-",56,24,-1.5123,82
+6,30,81.074,-59.344,2015,2,7,"Antarctic","Antarctic - KP","-",64,44,-1.5026,92
+6,31,80.149,-58.658,2015,2,7,"Antarctic","Antarctic - KP","-",56,50,-0.942,66
+7,32,82.007,-58.234,2015,2,8,"Antarctic","Antarctic - KP","WBC",54,48,-0.33581,64
+7,33,83.335,-57.922,2015,2,8,"Southern","Southern - between SB and SACCF","WBC",40,52,-0.50068,108
+7,34,84.613,-57.59,2015,2,9,"Antarctic","Antarctic - FTJ","-",68,62,0.78362,172
+8,35,85.283,-57.823,2015,2,9,"Antarctic","Antarctic - FTJ","-",32,28,0.77175,224
+8,36,85.135,-58.868,2015,2,10,"Southern","Southern - between SB and SACCF","WBC",46,46,-0.082715,80
+8,37,84.445,-59.095,2015,2,10,"Antarctic","Antarctic - KP","WBC",14,16,-0.13159,48
+8,38,86.717,-59.955,2015,2,11,"Antarctic","Antarctic - FTJ","-",64,62,1.066,90
+9,39,85.85,-60.074,2015,2,11,"Subpolar","Subpolar","WBC",26,24,-0.72443,86
+9,40,83.59,-60.316,2015,2,12,"Antarctic","Antarctic - KP","-",52,50,-1.1531,70
+9,41,82.566,-60.36,2015,2,12,"Antarctic","Antarctic - KP","-",54,52,-1.5443,80
+9,42,79.931,-60.897,2015,2,13,"Antarctic","Antarctic - ACC","-",54,52,-0.9189,62
+9,43,77.581,-61.324,2015,2,14,"Antarctic","Antarctic - ACC","-",58,56,-1.6047,78
+10,44,74.111,-61.827,2015,2,14,"Antarctic","Antarctic - ACC","-",46,44,-0.97781,60
+10,45,73.354,-62.679,2015,2,15,"Antarctic","Antarctic - ACC","-",46,44,-1.087,60
+10,46,72.138,-63.959,2015,2,15,"Subpolar","Subpolar","-",14,30,-1.7878,74
+10,47,71.17,-64.876,2015,2,16,"Subpolar","Subpolar","-",26,30,-1.7254,66
